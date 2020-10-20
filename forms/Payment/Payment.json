@@ -61,34 +61,16 @@
         "forms",
         "Payment",
         "Elements",
-        "btn15.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Payment",
-        "Elements",
-        "btn30.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Payment",
-        "Elements",
-        "btnSubmit.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Payment",
-        "Elements",
         "lblRes.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Payment",
+        "Elements",
+        "inptYears.json"
       ]
     }
   ],
