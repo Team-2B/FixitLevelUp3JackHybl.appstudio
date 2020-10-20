@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnAuto",
-  "left": 65,
+  "left": 96,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 205,
+  "top": 202,
   "value": "Auto",
   "width": "auto"
 }
